@@ -8,6 +8,10 @@ Support: Skyrim AE `1.7.104.0`
 
 # Use
 
+### Git
+
+`git clone --recurse-submodules https://github.com/nekoside-dev/SKSE-plugin-template.git`
+
 ### Enviroment Variables
 
 - Set `VCPKG_ROOT` to your vcpkg instance
