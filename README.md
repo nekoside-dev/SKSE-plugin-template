@@ -1,1 +1,23 @@
 # SKSE-plugin-template
+
+Support: Skyrim AE `1.7.104.0`
+
+# Use
+
+### Enviroment Variables
+
+Set `SKYRIM_MODS_FOLDER` to your Mod Organizer 2 `mods` directory.
+
+### Visual Studio
+
+Install C++ Desktop Development component. Ensure check the MSVC, cmake and vcpkg (or use cmake and vcpkg from scoop or CLion).
+
+### Build
+
+The plugin `dll` and `pdb` will be in `MO2\mods\<PROJECT_NAME>\`, replace the project name in `CMakeLists.txt`.
+
+### P.S.
+
+I'm noob for Skyrim moddev, so it's not a perfect template.
+
+I create it for my using.
